@@ -112,6 +112,7 @@ response = ollama.chat(model='redditor', messages=[
 post["response"] = textwrap.fill(response.message.content, width=150)
 print(f"Possible Response: {post['response']}\n")
 #
-``` 
+```
+ 
 ## License
 MIT
