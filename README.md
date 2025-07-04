@@ -1,4 +1,4 @@
-# H1 - AI powered Reddit Post Discovery Tool
+# AI powered Reddit Post Discovery Tool
 
 A powerful, AI-enhanced Reddit monitoring tool that finds **semantically relevant posts** across Reddit using **natural language similarity**. This tool uses semantic similarity (via NLP embeddings) to discover posts that are meaningfully relevant.
 Designed for marketers, researchers, community managers, and developers who want to track conversations that matter.
