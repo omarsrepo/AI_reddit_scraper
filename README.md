@@ -36,7 +36,6 @@ Designed for marketers, researchers, community managers, and developers who want
 ## Project Structure
 ```
 Reddit_discovery_tool/
-├── .env 
 ├── reddit_scraper.py
 ├── main.py 
 ├── requirements.txt 
@@ -112,7 +111,6 @@ response = ollama.chat(model='redditor', messages=[
 post["response"] = textwrap.fill(response.message.content, width=150)
 print(f"Possible Response: {post['response']}\n")
 #
-```
- 
+``` 
 ## License
 MIT
