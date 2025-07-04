@@ -37,7 +37,8 @@ Designed for marketers, researchers, community managers, and developers who want
 ```
 Reddit_discovery_tool/
 ├── .env 
-├── reddit_scraper.py 
+├── reddit_scraper.py
+├── main.py 
 ├── requirements.txt 
 ├── Modelfile (For creating custom models. More info here: https://ollama.readthedocs.io/en/modelfile/ )
 └── README.md 
