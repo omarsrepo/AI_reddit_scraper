@@ -14,7 +14,7 @@ Designed for marketers, researchers, community managers, and developers who want
 - Accepts **custom keyword lists** — track any product, topic, brand, or phrase
 - Uses `all-MiniLM-L6-v2` Huggingface transformer to perform cosine similarity between posts content and list of keywords to detect relevance
 - Fast filtering using **precomputed embeddings**
-- Uses **bart-large-mnli** Huggingface transformer for zero-shot classification of context assesment of posts (is the post a complaint, question, feedback etc)
+- Uses `bart-large-mnli` Huggingface transformer for zero-shot classification of context assesment of posts (is the post a complaint, question, feedback etc)
 - Outputs relevant posts with metadata: title, content preview, date, subreddit, link
 - Uses Ollama and llama3.2 to create a custom LLM through the Modelfile (provided in the project structure) for custom response generation to the posts 
 
