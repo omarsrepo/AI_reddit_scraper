@@ -39,7 +39,7 @@ Reddit_discovery_tool/
 └── README.md 
 
 ## Installation
-```
+```bash
 git clone https://github.com/your-username/reddit-discovery-tool.git
 cd reddit-discovery-tool
 pip install -r requirements.txt
