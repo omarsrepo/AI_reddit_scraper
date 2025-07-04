@@ -57,5 +57,5 @@ REDDIT_CLIENT_SECRET=your_secret
 REDDIT_USER_AGENT=your_agent_string
 ```
 
-# License
+## License
 MIT
