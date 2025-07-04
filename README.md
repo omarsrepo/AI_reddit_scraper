@@ -39,9 +39,11 @@ Reddit_discovery_tool/
 └── README.md 
 
 ## Installation
+```
 git clone https://github.com/your-username/reddit-discovery-tool.git
 cd reddit-discovery-tool
 pip install -r requirements.txt
+```
 Add a .env file with your Reddit credentials:
 
 REDDIT_CLIENT_ID=your_id
