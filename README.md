@@ -34,12 +34,14 @@ Designed for marketers, researchers, community managers, and developers who want
 ---
 
 ## Project Structure
+```
 Reddit_discovery_tool/
 ├── .env 
 ├── reddit_scraper.py 
 ├── requirements.txt 
 ├── Modelfile (For creating custom models. More info here: https://ollama.readthedocs.io/en/modelfile/ )
 └── README.md 
+```
 
 ## Installation
 ```bash
@@ -49,9 +51,11 @@ pip install -r requirements.txt
 ```
 Add a .env file with your Reddit credentials:
 
+```
 REDDIT_CLIENT_ID=your_id
 REDDIT_CLIENT_SECRET=your_secret
 REDDIT_USER_AGENT=your_agent_string
+```
 
 # License
 MIT
