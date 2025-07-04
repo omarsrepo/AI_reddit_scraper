@@ -3,6 +3,9 @@
 A powerful, AI-enhanced Reddit monitoring tool that finds **semantically relevant posts** across Reddit using **natural language similarity**. This tool uses semantic similarity (via NLP embeddings) to discover posts that are meaningfully relevant.
 Designed for marketers, researchers, community managers, and developers who want to track conversations that matter.
 
+<img width="1680" alt="Prototype Search Results" src="https://github.com/user-attachments/assets/76b0b7ef-a46c-4f33-b461-26294723e267" />
+
+
 ---
 
 ## Features
